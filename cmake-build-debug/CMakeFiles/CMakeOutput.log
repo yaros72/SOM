@@ -550,3 +550,51 @@ make[1]: Leaving directory '/home/titan/Development/SOM/SOM/cmake-build-debug/CM
     Feature record: CXX_FEATURE:0cxx_variable_templates
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
+Performing C SOURCE FILE Test OpenMP_FLAG_DETECTED succeeded with the following output:
+Change Dir: /home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_289c6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_289c6.dir/build.make CMakeFiles/cmTC_289c6.dir/build
+make[1]: Entering directory '/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_289c6.dir/src.c.o
+/usr/bin/cc    -DOpenMP_FLAG_DETECTED -fopenmp   -o CMakeFiles/cmTC_289c6.dir/src.c.o   -c /home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_289c6
+/home/titan/Applications/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_289c6.dir/link.txt --verbose=1
+/usr/bin/cc   -DOpenMP_FLAG_DETECTED -fopenmp    CMakeFiles/cmTC_289c6.dir/src.c.o  -o cmTC_289c6 
+make[1]: Leaving directory '/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <omp.h>
+int main() {
+#ifdef _OPENMP
+  return 0;
+#else
+  breaks_on_purpose
+#endif
+}
+
+Performing C++ SOURCE FILE Test OpenMP_FLAG_DETECTED succeeded with the following output:
+Change Dir: /home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_faecf/fast"
+/usr/bin/make -f CMakeFiles/cmTC_faecf.dir/build.make CMakeFiles/cmTC_faecf.dir/build
+make[1]: Entering directory '/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_faecf.dir/src.cxx.o
+/usr/bin/c++     -DOpenMP_FLAG_DETECTED -fopenmp   -o CMakeFiles/cmTC_faecf.dir/src.cxx.o -c /home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_faecf
+/home/titan/Applications/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_faecf.dir/link.txt --verbose=1
+/usr/bin/c++    -DOpenMP_FLAG_DETECTED -fopenmp    CMakeFiles/cmTC_faecf.dir/src.cxx.o  -o cmTC_faecf 
+make[1]: Leaving directory '/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <omp.h>
+int main() {
+#ifdef _OPENMP
+  return 0;
+#else
+  breaks_on_purpose
+#endif
+}
+
