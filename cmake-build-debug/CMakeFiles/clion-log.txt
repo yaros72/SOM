@@ -1,0 +1,4 @@
+/home/titan/Applications/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/titan/Hard/workspace/SOM
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/titan/Hard/workspace/SOM/cmake-build-debug

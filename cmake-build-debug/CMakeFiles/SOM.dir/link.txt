@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/SOM.dir/deviation.c.o CMakeFiles/SOM.dir/functions.c.o CMakeFiles/SOM.dir/main.c.o CMakeFiles/SOM.dir/montecarlo.c.o CMakeFiles/SOM.dir/setConfiguration.c.o CMakeFiles/SOM.dir/updates.c.o  -o SOM 
