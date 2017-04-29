@@ -6,25 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/media/titan/Hard/workspace/SOM/constants.h
+/home/titan/Development/SOM/SOM/constants.h
 
-/media/titan/Hard/workspace/SOM/deviation.c
+/home/titan/Development/SOM/SOM/deviation.c
 deviation.h
-/media/titan/Hard/workspace/SOM/deviation.h
+/home/titan/Development/SOM/SOM/deviation.h
 
-/media/titan/Hard/workspace/SOM/deviation.h
+/home/titan/Development/SOM/SOM/deviation.h
 stdlib.h
 -
 math.h
 -
 constants.h
-/media/titan/Hard/workspace/SOM/constants.h
+/home/titan/Development/SOM/SOM/constants.h
 
-/media/titan/Hard/workspace/SOM/functions.c
+/home/titan/Development/SOM/SOM/functions.c
 functions.h
-/media/titan/Hard/workspace/SOM/functions.h
+/home/titan/Development/SOM/SOM/functions.h
 
-/media/titan/Hard/workspace/SOM/functions.h
+/home/titan/Development/SOM/SOM/functions.h
 stdio.h
 -
 stdlib.h
@@ -32,13 +32,13 @@ stdlib.h
 time.h
 -
 constants.h
-/media/titan/Hard/workspace/SOM/constants.h
+/home/titan/Development/SOM/SOM/constants.h
 
-/media/titan/Hard/workspace/SOM/main.c
+/home/titan/Development/SOM/SOM/main.c
 main.h
-/media/titan/Hard/workspace/SOM/main.h
+/home/titan/Development/SOM/SOM/main.h
 
-/media/titan/Hard/workspace/SOM/main.h
+/home/titan/Development/SOM/SOM/main.h
 stdio.h
 -
 math.h
@@ -50,63 +50,63 @@ time.h
 omp.h
 -
 constants.h
-/media/titan/Hard/workspace/SOM/constants.h
+/home/titan/Development/SOM/SOM/constants.h
 setConfiguration.h
-/media/titan/Hard/workspace/SOM/setConfiguration.h
+/home/titan/Development/SOM/SOM/setConfiguration.h
 functions.h
-/media/titan/Hard/workspace/SOM/functions.h
+/home/titan/Development/SOM/SOM/functions.h
 deviation.h
-/media/titan/Hard/workspace/SOM/deviation.h
+/home/titan/Development/SOM/SOM/deviation.h
 updates.h
-/media/titan/Hard/workspace/SOM/updates.h
+/home/titan/Development/SOM/SOM/updates.h
 montecarlo.h
-/media/titan/Hard/workspace/SOM/montecarlo.h
+/home/titan/Development/SOM/SOM/montecarlo.h
 
-/media/titan/Hard/workspace/SOM/montecarlo.c
+/home/titan/Development/SOM/SOM/montecarlo.c
 montecarlo.h
-/media/titan/Hard/workspace/SOM/montecarlo.h
+/home/titan/Development/SOM/SOM/montecarlo.h
 
-/media/titan/Hard/workspace/SOM/montecarlo.h
+/home/titan/Development/SOM/SOM/montecarlo.h
 stdio.h
 -
 math.h
 -
 constants.h
-/media/titan/Hard/workspace/SOM/constants.h
+/home/titan/Development/SOM/SOM/constants.h
 updates.h
-/media/titan/Hard/workspace/SOM/updates.h
+/home/titan/Development/SOM/SOM/updates.h
 deviation.h
-/media/titan/Hard/workspace/SOM/deviation.h
+/home/titan/Development/SOM/SOM/deviation.h
 functions.h
-/media/titan/Hard/workspace/SOM/functions.h
+/home/titan/Development/SOM/SOM/functions.h
 
-/media/titan/Hard/workspace/SOM/setConfiguration.c
+/home/titan/Development/SOM/SOM/setConfiguration.c
 setConfiguration.h
-/media/titan/Hard/workspace/SOM/setConfiguration.h
+/home/titan/Development/SOM/SOM/setConfiguration.h
 
-/media/titan/Hard/workspace/SOM/setConfiguration.h
+/home/titan/Development/SOM/SOM/setConfiguration.h
 stdlib.h
 -
 constants.h
-/media/titan/Hard/workspace/SOM/constants.h
+/home/titan/Development/SOM/SOM/constants.h
 functions.h
-/media/titan/Hard/workspace/SOM/functions.h
+/home/titan/Development/SOM/SOM/functions.h
 deviation.h
-/media/titan/Hard/workspace/SOM/deviation.h
+/home/titan/Development/SOM/SOM/deviation.h
 
-/media/titan/Hard/workspace/SOM/updates.c
+/home/titan/Development/SOM/SOM/updates.c
 updates.h
-/media/titan/Hard/workspace/SOM/updates.h
+/home/titan/Development/SOM/SOM/updates.h
 
-/media/titan/Hard/workspace/SOM/updates.h
+/home/titan/Development/SOM/SOM/updates.h
 stdio.h
 -
 math.h
 -
 constants.h
-/media/titan/Hard/workspace/SOM/constants.h
+/home/titan/Development/SOM/SOM/constants.h
 functions.h
-/media/titan/Hard/workspace/SOM/functions.h
+/home/titan/Development/SOM/SOM/functions.h
 deviation.h
-/media/titan/Hard/workspace/SOM/deviation.h
+/home/titan/Development/SOM/SOM/deviation.h
 

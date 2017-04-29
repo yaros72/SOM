@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/media/titan/Hard/workspace/SOM/deviation.c" "/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles/SOM.dir/deviation.c.o"
-  "/media/titan/Hard/workspace/SOM/functions.c" "/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles/SOM.dir/functions.c.o"
-  "/media/titan/Hard/workspace/SOM/main.c" "/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles/SOM.dir/main.c.o"
-  "/media/titan/Hard/workspace/SOM/montecarlo.c" "/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles/SOM.dir/montecarlo.c.o"
-  "/media/titan/Hard/workspace/SOM/setConfiguration.c" "/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles/SOM.dir/setConfiguration.c.o"
-  "/media/titan/Hard/workspace/SOM/updates.c" "/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles/SOM.dir/updates.c.o"
+  "/home/titan/Development/SOM/SOM/deviation.c" "/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/SOM.dir/deviation.c.o"
+  "/home/titan/Development/SOM/SOM/functions.c" "/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/SOM.dir/functions.c.o"
+  "/home/titan/Development/SOM/SOM/main.c" "/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/SOM.dir/main.c.o"
+  "/home/titan/Development/SOM/SOM/montecarlo.c" "/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/SOM.dir/montecarlo.c.o"
+  "/home/titan/Development/SOM/SOM/setConfiguration.c" "/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/SOM.dir/setConfiguration.c.o"
+  "/home/titan/Development/SOM/SOM/updates.c" "/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/SOM.dir/updates.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

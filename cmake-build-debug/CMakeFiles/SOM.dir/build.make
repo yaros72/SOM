@@ -43,10 +43,10 @@ RM = /home/titan/Applications/clion-2016.3.3/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/titan/Hard/workspace/SOM
+CMAKE_SOURCE_DIR = /home/titan/Development/SOM/SOM
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/titan/Hard/workspace/SOM/cmake-build-debug
+CMAKE_BINARY_DIR = /home/titan/Development/SOM/SOM/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SOM.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/SOM.dir/flags.make
 
 CMakeFiles/SOM.dir/deviation.c.o: CMakeFiles/SOM.dir/flags.make
 CMakeFiles/SOM.dir/deviation.c.o: ../deviation.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SOM.dir/deviation.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/deviation.c.o   -c /media/titan/Hard/workspace/SOM/deviation.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SOM.dir/deviation.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/deviation.c.o   -c /home/titan/Development/SOM/SOM/deviation.c
 
 CMakeFiles/SOM.dir/deviation.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SOM.dir/deviation.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /media/titan/Hard/workspace/SOM/deviation.c > CMakeFiles/SOM.dir/deviation.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/titan/Development/SOM/SOM/deviation.c > CMakeFiles/SOM.dir/deviation.c.i
 
 CMakeFiles/SOM.dir/deviation.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SOM.dir/deviation.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /media/titan/Hard/workspace/SOM/deviation.c -o CMakeFiles/SOM.dir/deviation.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/titan/Development/SOM/SOM/deviation.c -o CMakeFiles/SOM.dir/deviation.c.s
 
 CMakeFiles/SOM.dir/deviation.c.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/SOM.dir/deviation.c.o.provides.build: CMakeFiles/SOM.dir/deviation.c.
 
 CMakeFiles/SOM.dir/functions.c.o: CMakeFiles/SOM.dir/flags.make
 CMakeFiles/SOM.dir/functions.c.o: ../functions.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/SOM.dir/functions.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/functions.c.o   -c /media/titan/Hard/workspace/SOM/functions.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/SOM.dir/functions.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/functions.c.o   -c /home/titan/Development/SOM/SOM/functions.c
 
 CMakeFiles/SOM.dir/functions.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SOM.dir/functions.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /media/titan/Hard/workspace/SOM/functions.c > CMakeFiles/SOM.dir/functions.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/titan/Development/SOM/SOM/functions.c > CMakeFiles/SOM.dir/functions.c.i
 
 CMakeFiles/SOM.dir/functions.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SOM.dir/functions.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /media/titan/Hard/workspace/SOM/functions.c -o CMakeFiles/SOM.dir/functions.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/titan/Development/SOM/SOM/functions.c -o CMakeFiles/SOM.dir/functions.c.s
 
 CMakeFiles/SOM.dir/functions.c.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/SOM.dir/functions.c.o.provides.build: CMakeFiles/SOM.dir/functions.c.
 
 CMakeFiles/SOM.dir/main.c.o: CMakeFiles/SOM.dir/flags.make
 CMakeFiles/SOM.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/SOM.dir/main.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/main.c.o   -c /media/titan/Hard/workspace/SOM/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/SOM.dir/main.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/main.c.o   -c /home/titan/Development/SOM/SOM/main.c
 
 CMakeFiles/SOM.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SOM.dir/main.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /media/titan/Hard/workspace/SOM/main.c > CMakeFiles/SOM.dir/main.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/titan/Development/SOM/SOM/main.c > CMakeFiles/SOM.dir/main.c.i
 
 CMakeFiles/SOM.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SOM.dir/main.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /media/titan/Hard/workspace/SOM/main.c -o CMakeFiles/SOM.dir/main.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/titan/Development/SOM/SOM/main.c -o CMakeFiles/SOM.dir/main.c.s
 
 CMakeFiles/SOM.dir/main.c.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/SOM.dir/main.c.o.provides.build: CMakeFiles/SOM.dir/main.c.o
 
 CMakeFiles/SOM.dir/montecarlo.c.o: CMakeFiles/SOM.dir/flags.make
 CMakeFiles/SOM.dir/montecarlo.c.o: ../montecarlo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/SOM.dir/montecarlo.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/montecarlo.c.o   -c /media/titan/Hard/workspace/SOM/montecarlo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/SOM.dir/montecarlo.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/montecarlo.c.o   -c /home/titan/Development/SOM/SOM/montecarlo.c
 
 CMakeFiles/SOM.dir/montecarlo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SOM.dir/montecarlo.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /media/titan/Hard/workspace/SOM/montecarlo.c > CMakeFiles/SOM.dir/montecarlo.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/titan/Development/SOM/SOM/montecarlo.c > CMakeFiles/SOM.dir/montecarlo.c.i
 
 CMakeFiles/SOM.dir/montecarlo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SOM.dir/montecarlo.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /media/titan/Hard/workspace/SOM/montecarlo.c -o CMakeFiles/SOM.dir/montecarlo.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/titan/Development/SOM/SOM/montecarlo.c -o CMakeFiles/SOM.dir/montecarlo.c.s
 
 CMakeFiles/SOM.dir/montecarlo.c.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/SOM.dir/montecarlo.c.o.provides.build: CMakeFiles/SOM.dir/montecarlo.
 
 CMakeFiles/SOM.dir/setConfiguration.c.o: CMakeFiles/SOM.dir/flags.make
 CMakeFiles/SOM.dir/setConfiguration.c.o: ../setConfiguration.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/SOM.dir/setConfiguration.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/setConfiguration.c.o   -c /media/titan/Hard/workspace/SOM/setConfiguration.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/SOM.dir/setConfiguration.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/setConfiguration.c.o   -c /home/titan/Development/SOM/SOM/setConfiguration.c
 
 CMakeFiles/SOM.dir/setConfiguration.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SOM.dir/setConfiguration.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /media/titan/Hard/workspace/SOM/setConfiguration.c > CMakeFiles/SOM.dir/setConfiguration.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/titan/Development/SOM/SOM/setConfiguration.c > CMakeFiles/SOM.dir/setConfiguration.c.i
 
 CMakeFiles/SOM.dir/setConfiguration.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SOM.dir/setConfiguration.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /media/titan/Hard/workspace/SOM/setConfiguration.c -o CMakeFiles/SOM.dir/setConfiguration.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/titan/Development/SOM/SOM/setConfiguration.c -o CMakeFiles/SOM.dir/setConfiguration.c.s
 
 CMakeFiles/SOM.dir/setConfiguration.c.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/SOM.dir/setConfiguration.c.o.provides.build: CMakeFiles/SOM.dir/setCo
 
 CMakeFiles/SOM.dir/updates.c.o: CMakeFiles/SOM.dir/flags.make
 CMakeFiles/SOM.dir/updates.c.o: ../updates.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/SOM.dir/updates.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/updates.c.o   -c /media/titan/Hard/workspace/SOM/updates.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/SOM.dir/updates.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SOM.dir/updates.c.o   -c /home/titan/Development/SOM/SOM/updates.c
 
 CMakeFiles/SOM.dir/updates.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SOM.dir/updates.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /media/titan/Hard/workspace/SOM/updates.c > CMakeFiles/SOM.dir/updates.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/titan/Development/SOM/SOM/updates.c > CMakeFiles/SOM.dir/updates.c.i
 
 CMakeFiles/SOM.dir/updates.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SOM.dir/updates.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /media/titan/Hard/workspace/SOM/updates.c -o CMakeFiles/SOM.dir/updates.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/titan/Development/SOM/SOM/updates.c -o CMakeFiles/SOM.dir/updates.c.s
 
 CMakeFiles/SOM.dir/updates.c.o.requires:
 
@@ -221,7 +221,7 @@ SOM: CMakeFiles/SOM.dir/setConfiguration.c.o
 SOM: CMakeFiles/SOM.dir/updates.c.o
 SOM: CMakeFiles/SOM.dir/build.make
 SOM: CMakeFiles/SOM.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable SOM"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable SOM"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SOM.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -243,6 +243,6 @@ CMakeFiles/SOM.dir/clean:
 .PHONY : CMakeFiles/SOM.dir/clean
 
 CMakeFiles/SOM.dir/depend:
-	cd /media/titan/Hard/workspace/SOM/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/titan/Hard/workspace/SOM /media/titan/Hard/workspace/SOM /media/titan/Hard/workspace/SOM/cmake-build-debug /media/titan/Hard/workspace/SOM/cmake-build-debug /media/titan/Hard/workspace/SOM/cmake-build-debug/CMakeFiles/SOM.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/titan/Development/SOM/SOM/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/titan/Development/SOM/SOM /home/titan/Development/SOM/SOM /home/titan/Development/SOM/SOM/cmake-build-debug /home/titan/Development/SOM/SOM/cmake-build-debug /home/titan/Development/SOM/SOM/cmake-build-debug/CMakeFiles/SOM.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/SOM.dir/depend
 
